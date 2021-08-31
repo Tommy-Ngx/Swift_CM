@@ -1,5 +1,5 @@
 import UIKit
-var greeting = "Hello, CodingMentor playground"
+var greeting = "Hello, CodingMentor playground "
 print(greeting)
 
 func convert(input2:String) -> String {
