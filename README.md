@@ -8,4 +8,9 @@ Class 1: Introduction + Homework
 
 
 Class: IOS for Beginner of Coding Mentor
-Credit: Ngọc Anh (IOS mentor) - Danny ??
+
+Credit: 
+
+Ngọc Anh (IOS mentor) 
+
+ Danny ??
