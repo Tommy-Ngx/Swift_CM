@@ -1,9 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/codingmentor.png" width="224px"/><br/>
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/codingmentor.png" width="124px"/><br/>
   ⚙️ Swift from CodingMentor
 </h1>
-## Class: IOS for Beginner of Coding Mentor
-
 Code for practice
 ### 📖 Class 1: Introduction + Homework
 
