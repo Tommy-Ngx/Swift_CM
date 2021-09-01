@@ -8,7 +8,7 @@
 
 - Codebase: https://jjhive.notion.site/jjhive/iOS-Lesson-1-779db364a57144dc8fd6245a783fd712
 - Homework 1:
-    https://github.com/Tommy-Ngx/Swift_CM/blob/main/ClassHomeWork1.playground/Contents.swift
+    https://github.com/Tommy-Ngx/Swift_CM/blob/main/Class1/ClassHomeWork1.playground/Contents.swift
 ### 📖 Class 2: ???
 
 
