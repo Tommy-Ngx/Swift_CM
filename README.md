@@ -1,5 +1,4 @@
-# Swift_CM
-## ⚙️ Swift from CodingMentor
+# ⚙️ Swift from CodingMentor
 
 Code for practice
 ### 📖 Class 1: Introduction + Homework
