@@ -1,5 +1,8 @@
-# ⚙️ Swift from CodingMentor
-Class: IOS for Beginner of Coding Mentor
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
+  ⚙️ Swift from CodingMentor
+</h1>
+## Class: IOS for Beginner of Coding Mentor
 
 Code for practice
 ### 📖 Class 1: Introduction + Homework
