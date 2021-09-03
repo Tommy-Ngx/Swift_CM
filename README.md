@@ -13,6 +13,10 @@
 
 - Code base is the same hơmework
 - Homework 2: https://github.com/Tommy-Ngx/Swift_CM/blob/main/Class2/CodingMentor/CodingMentor/ViewController.swift
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/appclass2.png" width="124px"/><
+</h1>
+
 
 ### 📖 Class 3: ???
 
