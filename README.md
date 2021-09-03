@@ -9,8 +9,10 @@
 - Codebase: https://jjhive.notion.site/jjhive/iOS-Lesson-1-779db364a57144dc8fd6245a783fd712
 - Homework 1:
     https://github.com/Tommy-Ngx/Swift_CM/blob/main/Class1/ClassHomeWork1.playground/Contents.swift
-### 📖 Class 2: ???
+### 📖 Class 2: View Controller + Class
 
+- Code base is the same hơmework
+- Homework 2: https://github.com/Tommy-Ngx/Swift_CM/blob/main/Class2/CodingMentor/CodingMentor/ViewController.swift
 
 ### 📖 Class 3: ???
 
