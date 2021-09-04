@@ -18,7 +18,7 @@
 </h1>
 
 
-### 📖 Class 3: ???
+### 📖 Class 3: Updating Soon...
 
 
 
