@@ -22,13 +22,13 @@
 
 
 
-### 📖 Final App: ???
+### 📖 Simple App: Updating Soon...
 
 
 
 ## ⭐️  Credit: 
 ```bash
 > Ngọc Anh (IOS mentor) 
-> Danny (--)
+> Danny (Assistant mentor)
 > JayDen (Moderator)
 ```
