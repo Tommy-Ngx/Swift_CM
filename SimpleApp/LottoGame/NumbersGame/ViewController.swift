@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+
+    
     @IBOutlet weak var upButton: UIButton!
     @IBOutlet weak var downButton: UIButton!
     @IBOutlet weak var checkButton: UIButton!
@@ -24,6 +26,7 @@ class ViewController: UIViewController {
     var moves = 0
     
     override func viewDidLoad() {
+        Thread.sleep(forTimeInterval: 3.0)
         super.viewDidLoad()
         
         //button design - rounded corners

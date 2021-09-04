@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B71353AD24AF4B510094F72F /* NumbersGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NumbersGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B71353AD24AF4B510094F72F /* LottoMentor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LottoMentor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B71353B024AF4B510094F72F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B71353B224AF4B510094F72F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B71353B424AF4B510094F72F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B71353AE24AF4B510094F72F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B71353AD24AF4B510094F72F /* NumbersGame.app */,
+				B71353AD24AF4B510094F72F /* LottoMentor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B71353AC24AF4B510094F72F /* NumbersGame */ = {
+		B71353AC24AF4B510094F72F /* LottoMentor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B71353C124AF4B520094F72F /* Build configuration list for PBXNativeTarget "NumbersGame" */;
+			buildConfigurationList = B71353C124AF4B520094F72F /* Build configuration list for PBXNativeTarget "LottoMentor" */;
 			buildPhases = (
 				B71353A924AF4B510094F72F /* Sources */,
 				B71353AA24AF4B510094F72F /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = NumbersGame;
+			name = LottoMentor;
 			productName = NumbersGame;
-			productReference = B71353AD24AF4B510094F72F /* NumbersGame.app */;
+			productReference = B71353AD24AF4B510094F72F /* LottoMentor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -94,7 +94,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
-				LastUpgradeCheck = 1150;
+				LastUpgradeCheck = 1300;
 				ORGANIZATIONNAME = RADEFFFACTORY;
 				TargetAttributes = {
 					B71353AC24AF4B510094F72F = {
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B71353A824AF4B510094F72F /* Build configuration list for PBXProject "NumbersGame" */;
+			buildConfigurationList = B71353A824AF4B510094F72F /* Build configuration list for PBXProject "LottoMentor" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B71353AC24AF4B510094F72F /* NumbersGame */,
+				B71353AC24AF4B510094F72F /* LottoMentor */,
 			);
 		};
 /* End PBXProject section */
@@ -192,6 +192,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -252,6 +253,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -317,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B71353A824AF4B510094F72F /* Build configuration list for PBXProject "NumbersGame" */ = {
+		B71353A824AF4B510094F72F /* Build configuration list for PBXProject "LottoMentor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B71353BF24AF4B520094F72F /* Debug */,
@@ -326,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B71353C124AF4B520094F72F /* Build configuration list for PBXNativeTarget "NumbersGame" */ = {
+		B71353C124AF4B520094F72F /* Build configuration list for PBXNativeTarget "LottoMentor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B71353C224AF4B520094F72F /* Debug */,

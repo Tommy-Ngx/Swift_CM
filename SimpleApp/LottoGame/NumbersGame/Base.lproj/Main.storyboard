@@ -58,7 +58,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" layoutMarginsFollowReadableWidth="YES" insetsLayoutMarginsFromSafeArea="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C9B-6J-jDI">
-                                <rect key="frame" x="82" y="635" width="251" height="160"/>
+                                <rect key="frame" x="82" y="683" width="251" height="112"/>
                                 <color key="backgroundColor" red="0.12721602182079342" green="0.24141729135954498" blue="0.38595525997201197" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="300" id="RN3-lh-Sfd"/>
@@ -73,12 +73,12 @@
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" layoutMarginsFollowReadableWidth="YES" insetsLayoutMarginsFromSafeArea="NO" image="codingmentor_logo_color" translatesAutoresizingMaskIntoConstraints="NO" id="liN-w5-nJe">
-                                <rect key="frame" x="137" y="522" width="100.99999999999994" height="104.99999999999991"/>
+                                <rect key="frame" x="155.9130434781523" y="548.99999999999977" width="100.99999999999983" height="105.00000000000017"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="medium"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" layoutMarginsFollowReadableWidth="YES" insetsLayoutMarginsFromSafeArea="NO" text="Trình Độ Không Bằng Trời Độ!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="wI5-cd-8qn">
-                                <rect key="frame" x="35" y="44" width="294" height="291"/>
+                                <rect key="frame" x="58.347826086847817" y="44" width="294.00000000000017" height="291.00000000000006"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="44"/>
                                 <nil key="textColor"/>
