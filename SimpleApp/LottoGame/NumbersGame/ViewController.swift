@@ -7,17 +7,19 @@
 //
 
 import UIKit
+import ImageIO
+//import Lottie
 
 class ViewController: UIViewController {
     
-
+    //let animationView = AnimationView()
     
     @IBOutlet weak var upButton: UIButton!
     @IBOutlet weak var downButton: UIButton!
     @IBOutlet weak var checkButton: UIButton!
-    
     @IBOutlet weak var statusLabel: UILabel!
     @IBOutlet weak var numberLabel: UILabel!
+    @IBOutlet weak var gifView: UIImageView!
     
     var currentNumber = 50
     var generatedNumber = 0
@@ -26,8 +28,18 @@ class ViewController: UIViewController {
     var moves = 0
     
     override func viewDidLoad() {
-        Thread.sleep(forTimeInterval: 3.0)
+        
+        
+        
+        //setupAnimation()
+        //private func setupAnimation() {
+        //    animationView.animation = anim
+        //}
+        //gifView.isHidden = true
+        
+        Thread.sleep(forTimeInterval: 6.0)
         super.viewDidLoad()
+        gifView.isHidden = true
         
         //button design - rounded corners
         upButton.layer.cornerRadius = 10
@@ -40,6 +52,13 @@ class ViewController: UIViewController {
         //generate number for guessing between 0 and 50
         generatedNumber = Int.random(in: 0...99)
     }
+    
+//    @IBAction func addGif(_ sender: Any) {
+//
+//        gifView.isHidden = false
+//        gifView.loadGif(name: "winner")
+//
+//    }
 
     @IBAction func upButtonAction(_ sender: Any) {
         //increase the currentNumber + 1
@@ -81,7 +100,8 @@ class ViewController: UIViewController {
             moves = moves + 1
         } else {
             statusLabel.text = "Trúng Đề sau \(moves) lần xổ!"
-            
+            gifView.isHidden = false
+            gifView.loadGif(name: "winner")
             //disable the check button
             checkButton.isUserInteractionEnabled = false
         }

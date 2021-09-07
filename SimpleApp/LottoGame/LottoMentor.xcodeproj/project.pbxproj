@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F099CA326E6F06C0047C1DE /* gifLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F099CA226E6F06B0047C1DE /* gifLoad.swift */; };
+		4F099CA526E6F7450047C1DE /* winner.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4F099CA426E6F7450047C1DE /* winner.gif */; };
+		4F099CA726E6F8890047C1DE /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4F099CA626E6F8890047C1DE /* loading.gif */; };
 		B71353B124AF4B510094F72F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71353B024AF4B510094F72F /* AppDelegate.swift */; };
 		B71353B324AF4B510094F72F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71353B224AF4B510094F72F /* SceneDelegate.swift */; };
 		B71353B524AF4B510094F72F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71353B424AF4B510094F72F /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F099CA226E6F06B0047C1DE /* gifLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gifLoad.swift; sourceTree = "<group>"; };
+		4F099CA426E6F7450047C1DE /* winner.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = winner.gif; path = pic/winner.gif; sourceTree = "<group>"; };
+		4F099CA626E6F8890047C1DE /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = loading.gif; path = pic/loading.gif; sourceTree = "<group>"; };
 		B71353AD24AF4B510094F72F /* LottoMentor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LottoMentor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B71353B024AF4B510094F72F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B71353B224AF4B510094F72F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				B71353B924AF4B520094F72F /* Assets.xcassets */,
 				B71353BB24AF4B520094F72F /* LaunchScreen.storyboard */,
 				B71353BE24AF4B520094F72F /* Info.plist */,
+				4F099CA226E6F06B0047C1DE /* gifLoad.swift */,
+				4F099CA426E6F7450047C1DE /* winner.gif */,
+				4F099CA626E6F8890047C1DE /* loading.gif */,
 			);
 			path = NumbersGame;
 			sourceTree = "<group>";
@@ -126,6 +135,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B71353BD24AF4B520094F72F /* LaunchScreen.storyboard in Resources */,
+				4F099CA526E6F7450047C1DE /* winner.gif in Resources */,
+				4F099CA726E6F8890047C1DE /* loading.gif in Resources */,
 				B71353BA24AF4B520094F72F /* Assets.xcassets in Resources */,
 				B71353B824AF4B510094F72F /* Main.storyboard in Resources */,
 			);
@@ -140,6 +151,7 @@
 			files = (
 				B71353B524AF4B510094F72F /* ViewController.swift in Sources */,
 				B71353B124AF4B510094F72F /* AppDelegate.swift in Sources */,
+				4F099CA326E6F06C0047C1DE /* gifLoad.swift in Sources */,
 				B71353B324AF4B510094F72F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
