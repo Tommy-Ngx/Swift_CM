@@ -22,9 +22,15 @@
 
 
 
-### 📖 Simple App: Updating Soon...
+### 📖 Simple App: LottoNumber
 
-
+Gif Animation download :  https://lottiefiles.com/recent
+App Resize Icon:          https://appiconmaker.co/
+Main:                     https://github.com/Tommy-Ngx/Swift_CM/blob/main/SimpleApp/LottoGame/NumbersGame/ViewController.swift
+Sample: 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/lottomentor.png" width="124px"/>
+</h1>
 
 ## ⭐️  Credit: 
 ```bash
