@@ -21,7 +21,7 @@
 ### 📖 Class 3: AutoLayout + Animation
 
 - Basic Autolayout to IOS devices
-_ Key syntax of Animation for objects
+- Key syntax of Animation for objects
 
 
 ### 📖 Simple App: LottoNumber
