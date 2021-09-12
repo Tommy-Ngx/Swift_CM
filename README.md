@@ -18,8 +18,10 @@
 </h1>
 
 
-### 📖 Class 3: Updating Soon...
+### 📖 Class 3: AutoLayout + Animation
 
+- Basic Autolayout to IOS devices
+_ Key syntax of Animation for objects
 
 
 ### 📖 Simple App: LottoNumber
@@ -31,6 +33,15 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/lottomentor.png" width="124px"/>
 </h1>
+
+### 📖 Simple App: Repeat Sentence
+- 
+- Demo: https://www.youtube.com/watch?v=IvRoyE9np2U
+- <h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/ios.png" width="124px"/>
+</h1>
+
+
 
 ## ⭐️  Credit: 
 ```bash

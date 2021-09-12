@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F292F9F26E932E2003E380F /* gifLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F292F9E26E932E2003E380F /* gifLoad.swift */; };
+		4F292FA526E93516003E380F /* siri.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4F292FA426E93516003E380F /* siri.gif */; };
+		4F292FA726E936BC003E380F /* download.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4F292FA626E936BC003E380F /* download.gif */; };
 		4F47FDDC26E23991005093A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47FDDB26E23991005093A4 /* AppDelegate.swift */; };
 		4F47FDDE26E23991005093A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47FDDD26E23991005093A4 /* SceneDelegate.swift */; };
 		4F47FDE026E23991005093A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47FDDF26E23991005093A4 /* ViewController.swift */; };
@@ -17,6 +20,10 @@
 		4F47FDF626E23994005093A4 /* CodingMentorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47FDF526E23994005093A4 /* CodingMentorTests.swift */; };
 		4F47FE0026E23994005093A4 /* CodingMentorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47FDFF26E23994005093A4 /* CodingMentorUITests.swift */; };
 		4F47FE0226E23994005093A4 /* CodingMentorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47FE0126E23994005093A4 /* CodingMentorUITestsLaunchTests.swift */; };
+		4F72EFDD26EBAA8400CD0B8E /* PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F72EFDC26EBAA8400CD0B8E /* PopViewController.swift */; };
+		4FB3694726EC626900B0F8B6 /* ok.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4FB3694626EC626900B0F8B6 /* ok.gif */; };
+		4FDBFE2226EAAE5700E2687E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FDBFE2126EAAE5700E2687E /* SecondViewController.swift */; };
+		4FDBFE2626EAE61800E2687E /* setting.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4FDBFE2526EAE61800E2687E /* setting.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +44,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F292F9E26E932E2003E380F /* gifLoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gifLoad.swift; sourceTree = "<group>"; };
+		4F292FA426E93516003E380F /* siri.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = siri.gif; path = Pic/siri.gif; sourceTree = SOURCE_ROOT; };
+		4F292FA626E936BC003E380F /* download.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = download.gif; path = Pic/download.gif; sourceTree = SOURCE_ROOT; };
 		4F47FDD826E23991005093A4 /* CodingMentor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingMentor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F47FDDB26E23991005093A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4F47FDDD26E23991005093A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +61,10 @@
 		4F47FDFB26E23994005093A4 /* CodingMentorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodingMentorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F47FDFF26E23994005093A4 /* CodingMentorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingMentorUITests.swift; sourceTree = "<group>"; };
 		4F47FE0126E23994005093A4 /* CodingMentorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingMentorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4F72EFDC26EBAA8400CD0B8E /* PopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopViewController.swift; sourceTree = "<group>"; };
+		4FB3694626EC626900B0F8B6 /* ok.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ok.gif; path = Pic/ok.gif; sourceTree = SOURCE_ROOT; };
+		4FDBFE2126EAAE5700E2687E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		4FDBFE2526EAE61800E2687E /* setting.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = setting.gif; path = Pic/setting.gif; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +118,10 @@
 				4F47FDDB26E23991005093A4 /* AppDelegate.swift */,
 				4F47FDDD26E23991005093A4 /* SceneDelegate.swift */,
 				4F47FDDF26E23991005093A4 /* ViewController.swift */,
+				4F72EFDC26EBAA8400CD0B8E /* PopViewController.swift */,
 				4F47FDE126E23991005093A4 /* Main.storyboard */,
+				4FDBFE2126EAAE5700E2687E /* SecondViewController.swift */,
+				4F292F9E26E932E2003E380F /* gifLoad.swift */,
 				4F47FDE726E23994005093A4 /* Assets.xcassets */,
 				4F47FDE926E23994005093A4 /* LaunchScreen.storyboard */,
 				4F47FDEC26E23994005093A4 /* Info.plist */,
@@ -126,6 +143,10 @@
 			children = (
 				4F47FDFF26E23994005093A4 /* CodingMentorUITests.swift */,
 				4F47FE0126E23994005093A4 /* CodingMentorUITestsLaunchTests.swift */,
+				4F292FA426E93516003E380F /* siri.gif */,
+				4F292FA626E936BC003E380F /* download.gif */,
+				4FDBFE2526EAE61800E2687E /* setting.gif */,
+				4FB3694626EC626900B0F8B6 /* ok.gif */,
 			);
 			path = CodingMentorUITests;
 			sourceTree = "<group>";
@@ -236,7 +257,11 @@
 			files = (
 				4F47FDEB26E23994005093A4 /* LaunchScreen.storyboard in Resources */,
 				4F47FDE826E23994005093A4 /* Assets.xcassets in Resources */,
+				4FB3694726EC626900B0F8B6 /* ok.gif in Resources */,
+				4F292FA726E936BC003E380F /* download.gif in Resources */,
 				4F47FDE326E23991005093A4 /* Main.storyboard in Resources */,
+				4F292FA526E93516003E380F /* siri.gif in Resources */,
+				4FDBFE2626EAE61800E2687E /* setting.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,9 +286,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F292F9F26E932E2003E380F /* gifLoad.swift in Sources */,
 				4F47FDE026E23991005093A4 /* ViewController.swift in Sources */,
+				4F72EFDD26EBAA8400CD0B8E /* PopViewController.swift in Sources */,
 				4F47FDDC26E23991005093A4 /* AppDelegate.swift in Sources */,
 				4F47FDE626E23991005093A4 /* CodingMentor.xcdatamodeld in Sources */,
+				4FDBFE2226EAAE5700E2687E /* SecondViewController.swift in Sources */,
 				4F47FDDE26E23991005093A4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
