@@ -38,7 +38,7 @@ _ Key syntax of Animation for objects
 - 
 - Demo: https://www.youtube.com/watch?v=IvRoyE9np2U
 - <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/ios.png" width="124px"/>
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/ios.png" width="524px"/>
 </h1>
 
 
