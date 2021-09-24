@@ -42,6 +42,17 @@
   <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/ios.png" width="524px"/>
 </h1>
 
+### ⭐️ Delete Cache: After Project:
+Ref: https://www.youtube.com/watch?v=13QubFwmDoc&t=8s
+Ref: https://lovemewithoutall.github.io/it/xcode-clean-up/
++ Library: Cmd + Shift + .
++ Path: ~/Library/Developer/CoreSimulator/Devices 
++ Path: ~/Library/Developer/CoreSimulator/Caches/dyld/.. 
++ Path: ~/Library/Developer/Xcode/Archives 
++ Path: ~/Library/Developer/Xcode/DerivedData 
++ Path: ~/Library/Developer/XCPGDevices (All Folder not plist)
++ Path: ~/Library/Caches/  
+- Restart 
 
 
 ## ⭐️  Credit: 
