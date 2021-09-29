@@ -48,8 +48,8 @@
 </h1>
 
 ### ⭐️ Delete Cache: After Project:
-Ref: https://www.youtube.com/watch?v=13QubFwmDoc&t=8s
-Ref: https://lovemewithoutall.github.io/it/xcode-clean-up/
+- Ref: https://www.youtube.com/watch?v=13QubFwmDoc&t=8s
+- Ref: https://lovemewithoutall.github.io/it/xcode-clean-up/
 + Library: Cmd + Shift + .
 + Path: ~/Library/Developer/CoreSimulator/Devices 
 + Path: ~/Library/Developer/CoreSimulator/Caches/dyld/.. 
