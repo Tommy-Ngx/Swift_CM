@@ -38,6 +38,11 @@
 ### 📖 Simple App: Repeat Sentence
 - Main App: https://github.com/Tommy-Ngx/Swift_CM/tree/main/SimpleApp/LazyAss
 - Demo: https://www.youtube.com/watch?v=IvRoyE9np2U
+
++ First ViewController: https://github.com/Tommy-Ngx/Swift_CM/blob/main/SimpleApp/LazyAss/CodingMentor/ViewController.swift
++ Second ViewController: https://github.com/Tommy-Ngx/Swift_CM/blob/main/SimpleApp/LazyAss/CodingMentor/SecondViewController.swift
++ Third ViewController: https://github.com/Tommy-Ngx/Swift_CM/blob/main/SimpleApp/LazyAss/CodingMentor/PopViewController.swift
+
 - <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/ios.png" width="524px"/>
 </h1>
